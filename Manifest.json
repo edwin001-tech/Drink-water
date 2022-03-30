@@ -1,0 +1,11 @@
+{
+    "name": "Drink Water",
+    "version": "1.0.0",
+    "description": "An extension to occassionaly remind you to drink water while on your computer",
+    "manifest_version": 3,
+    "author": "Edwin Shitakwa",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "Drink Water"
+    }
+}
